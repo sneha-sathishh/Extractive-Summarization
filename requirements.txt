@@ -1,3 +1,11 @@
 raga_llm_hub
 tf-keras
 flask
+#ext_summarizer
+scipy==1.11.0
+scipy
+genism 
+scikit-learn
+numpy
+transformers 
+python-certifi-win32
